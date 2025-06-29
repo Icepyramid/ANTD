@@ -1,0 +1,14 @@
+{
+  "name": "Ant Dollar",
+  "symbol": "ANTD",
+  "description": "Ant Dollar is the official token of the GoldenAnts ecosystem.",
+  "image": "https://raw.githubusercontent.com/Icepyramid/ANTD/main/ANTD%20logo%20blue.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Icepyramid/ANTD/main/ANTD%20logo%20blue.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
